@@ -59,7 +59,7 @@ The dataset consists of images of crops categorized into subfolders based on dif
                     ├── Grape_healthy/
                     └── Potato _Late_blight/
                     |__ Strawberry_leaf_scorch/
-              |__ Tomato_Tomato_mosaic_virus/
+                    |__ Tomato_Tomato_mosaic_virus/
 
 Model Architecture
 
